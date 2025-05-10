@@ -12,6 +12,9 @@ function Banner() {
     </div>
   </div>
 </section> 
+<div className="video">
+  <video  autoPlay loop muted src="public/11294-229221031_medium.mp4" ></video>
+</div>
     </div>
   )
 }
