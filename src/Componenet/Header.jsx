@@ -6,6 +6,7 @@ function Header() {
     <div>
         <header className="bg-light border-bottom  position-fixed w-100">
   <nav className="navbar navbar-expand-lg navbar-light container">
+    
     <a className="navbar-brand logo" href="#">Kuldeep Furniture Work Shop</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
       <span className="navbar-toggler-icon"></span>
@@ -17,17 +18,17 @@ function Header() {
         
         </li>
         <li className="nav-item">
-           <Link to="/bed"className="nav-link active">Bed&Almari</Link>
+           <Link to="/bed"className="nav-link active">Bed</Link>
           
         </li>
       
         <li className="nav-item">
-          <Link to="/door"className="nav-link active">Door&Window</Link>
+          <Link to="/door"className="nav-link active">Door</Link>
           
         </li>
        
         <li className="nav-item">
-          <Link to="/steel"className="nav-link active">Steel-Railing&Gliging-Pateson</Link>
+          <Link to="/steel"className="nav-link active">Steel</Link>
 
           
         </li>

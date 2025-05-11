@@ -6,6 +6,7 @@ function Banner() {
      <section className="furniture-banner text-center ">
   <div className="banner-overlay">
     <div className="container">
+      <img className='photo-logo' src="public/rotate.jpg" alt="" />
       <h1 className="display-4 fw-bold">Modern Furniture Collection</h1>
       <p className="lead mb-4">Upgrade your home with stylish, comfortable, and affordable furniture.</p>
       <a href="#" className="btn btn-light btn-lg">Shop Now</a>
